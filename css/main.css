@@ -1,0 +1,33 @@
+body {
+	height: 200px;
+}
+
+#rule-menu, h1 {
+	display: inline-block;
+}
+
+.automaton {
+	margin-top: 30px;
+	width: 100%;
+}
+
+div {
+	height: 7px;
+}
+
+.row div {
+	display: inline-block;
+	border: solid 1px rgba(30,30,30,0.3);
+	padding: 0;
+	margin: 0;
+	width: 7px;
+	height: 7px;
+}
+
+/*.row div.inactive {
+	background-color: white;
+}
+
+.row div.active {
+	background-color: red;
+}*/
