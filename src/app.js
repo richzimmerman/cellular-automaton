@@ -67,6 +67,11 @@ function colorize(element) {
         console.log("this shouldn't happen at all");
     }
 }
+
+// A majority of the code below was created by @mpj / funfunfunction on YouTube.
+// https://www.youtube.com/watch?v=bc-fVdbjAwk&t=2627s
+// with some slight modifications and adding all 256 elementary 
+// cellular automata rules
 function randomBinary() {
     let max = 1
     let min = 0
